@@ -6,17 +6,17 @@ Controls:
 
 UP/DOWN - menu navigation;
 
-LEFT/RIGHT - change map;
+LEFT/RIGHT - map selection;
 
 ENTER - confirmation;
 
-W,A,S,D - moving;
+W,A,S,D - movement;
 
 SHIFT (hold) - run;
 
-CTRL (hold) - sit;
+CTRL (hold) - crouch;
 
-E - open the door;
+E - door interaction;
 
 F - elevator activation;
 
@@ -28,10 +28,7 @@ BACKSPACE - open/close menu;
 
 LMB - shoot;
 
-My engine co-worker(https://github.com/TimiTeam)
-
-Level editor maker(https://github.com/mmariashp)
-
+# Screenshots
 
 <img src="room1.png" alt="room"/>
 
