@@ -1,0 +1,14 @@
+Properties{
+pistol
+ammo 30
+size 12x8
+}
+waiting{
+media/textures/pistolet_ammo/pistol_ammo.png
+}
+walk{
+}
+action{
+}
+die{
+}

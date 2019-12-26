@@ -1,0 +1,15 @@
+Properties{
+health 60
+size 20x20
+}
+waiting{
+media/textures/big_medkit/big_medkit.png
+}
+walk{
+}
+action{
+}
+taking_damage{
+}
+die{
+}

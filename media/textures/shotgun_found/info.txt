@@ -1,0 +1,13 @@
+Properties{
+shotgun
+size 35x12
+}
+waiting{
+media/textures/shotgun_found/shotgun_found.png
+}
+walk{
+}
+action{
+}
+die{
+}

@@ -1,0 +1,14 @@
+Properties{
+shotgun
+ammo 16
+size 12x8
+}
+waiting{
+media/textures/shotgun_ammo/shotgun_ammo.png
+}
+walk{
+}
+action{
+}
+die{
+}

@@ -1,0 +1,14 @@
+Properties{
+size 100x100
+}
+waiting{
+media/textures/tree_two/tree_two.png
+}
+walk{
+}
+action{
+}
+taking_damage{
+}
+die{
+}

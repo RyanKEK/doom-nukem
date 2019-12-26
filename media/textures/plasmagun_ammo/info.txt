@@ -1,0 +1,14 @@
+Properties{
+plasmagun
+ammo 10
+size 20x15
+}
+waiting{
+media/textures/plasmagun_ammo/plasmagun_ammo.png
+}
+walk{
+}
+action{
+}
+die{
+}

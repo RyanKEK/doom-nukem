@@ -1,0 +1,16 @@
+Properties{
+size 12x12
+}
+waiting{
+media/textures/old_key/card_1.png
+media/textures/old_key/card_2.png
+media/textures/old_key/card_3.png
+media/textures/old_key/card_4.png
+media/textures/old_key/card_front.png
+}
+walk{
+}
+action{
+}
+die{
+}

@@ -1,0 +1,14 @@
+Properties{
+size 40x8
+}
+waiting{
+media/textures/bones/bones.png
+}
+walk{
+}
+action{
+}
+taking_damage{
+}
+die{
+}

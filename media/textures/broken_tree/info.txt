@@ -1,0 +1,14 @@
+Properties{
+size 80x35
+}
+waiting{
+media/textures/broken_tree/broken_tree.png
+}
+walk{
+}
+action{
+}
+taking_damage{
+}
+die{
+}

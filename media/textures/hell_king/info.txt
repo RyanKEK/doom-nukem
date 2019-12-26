@@ -1,0 +1,26 @@
+Properties{
+health 400
+damage 20
+size 60x90
+}
+waiting{
+media/textures/hell_king/wait.png
+}
+walk{
+media/textures/hell_king/walk1.png
+media/textures/hell_king/walk2.png
+}
+action{
+media/textures/hell_king/attac1.png
+media/textures/hell_king/attac2.png
+media/textures/hell_king/attac3.png
+}
+taking_damage{
+media/textures/hell_king/taking_damage.png
+}
+die{
+media/textures/hell_king/dying1.png
+media/textures/hell_king/dying2.png
+media/textures/hell_king/dying3.png
+media/textures/hell_king/dying4.png
+}

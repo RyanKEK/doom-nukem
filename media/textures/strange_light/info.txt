@@ -1,0 +1,17 @@
+Properties{
+size 30x70
+}
+waiting{
+media/textures/strange_light/strange_light1.png
+media/textures/strange_light/strange_light2.png
+media/textures/strange_light/strange_light3.png
+media/textures/strange_light/strange_light4.png
+}
+walk{
+}
+action{
+}
+taking_damage{
+}
+die{
+}

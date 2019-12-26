@@ -1,0 +1,13 @@
+Properties{
+type pistol
+size 15x10
+}
+waiting{
+media/textures/pistolet_found/pistolet_found.png
+}
+walk{
+}
+action{
+}
+die{
+}

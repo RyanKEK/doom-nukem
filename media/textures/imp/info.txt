@@ -1,0 +1,40 @@
+Properties{
+health 100
+damage 18
+size 70x95
+}
+waiting{
+media/textures/imp/a1.png
+}
+walk{
+media/textures/imp/w1.png
+media/textures/imp/w2.png
+media/textures/imp/w3.png
+media/textures/imp/w4.png
+media/textures/imp/w5.png
+media/textures/imp/w6.png
+}
+action{
+media/textures/imp/a1.png
+media/textures/imp/a2.png
+media/textures/imp/a3.png
+media/textures/imp/a4.png
+media/textures/imp/a5.png
+media/textures/imp/a6.png
+}
+taking_damage{
+media/textures/imp/d1.png
+media/textures/imp/d2.png
+}
+die{
+media/textures/imp/d1.png
+media/textures/imp/d2.png
+media/textures/imp/d3.png
+media/textures/imp/d4.png
+media/textures/imp/d5.png
+media/textures/imp/d6.png
+media/textures/imp/d7.png
+media/textures/imp/d8.png
+media/textures/imp/d9.png
+media/textures/imp/d10.png
+}

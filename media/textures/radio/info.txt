@@ -1,0 +1,14 @@
+Properties{
+size 20x20
+}
+waiting{
+media/textures/radio/radio.png
+}
+walk{
+}
+action{
+}
+taking_damage{
+}
+die{
+}
