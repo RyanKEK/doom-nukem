@@ -1,6 +1,6 @@
 # Doom-Nukem
 
-This project was made by me and my teammates: https://github.com/TimiTeam(Enine co-worker) and https://github.com/mmariashp(Level editor), as a part of 42 study program.
+This project was made by me and my teammates: https://github.com/TimiTeam (Engine co-worker) and https://github.com/mmariashp (Level editor), as a part of 42 study program.
 
 Controls:
 
